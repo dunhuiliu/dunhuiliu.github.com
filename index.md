@@ -1,16 +1,11 @@
 ## 欢迎来到离笙的
 [editor on GitHub](https://github.com/LiShengAlone/lishengalone.github.com/edit/master/index.md)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Jekyll](https://jekyllrb.com/)
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
+# 仓库
 ## Header 2
 ### Header 3
 
