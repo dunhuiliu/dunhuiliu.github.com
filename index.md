@@ -2,9 +2,6 @@
 [editor on GitHub](https://github.com/LiShengAlone/lishengalone.github.com/edit/master/index.md)
 
 [Jekyll](https://jekyllrb.com/)
-
-### Markdown
-
 # 仓库
 ## Header 2
 ### Header 3
